@@ -4,7 +4,7 @@ const Countrylist = ({ List }) => {
 
     return (
         <div>
-            <table class="table table-striped table-dark">
+            <table class="table ">
                 <thead class="table-dark    ">
                     <tr>
                         <th>CountryName</th>
